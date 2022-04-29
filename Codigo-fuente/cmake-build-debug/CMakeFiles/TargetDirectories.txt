@@ -1,0 +1,3 @@
+C:/Users/Hernandez/CLionProjects/Codigo-fuente/cmake-build-debug/CMakeFiles/Codigo_fuente.dir
+C:/Users/Hernandez/CLionProjects/Codigo-fuente/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hernandez/CLionProjects/Codigo-fuente/cmake-build-debug/CMakeFiles/rebuild_cache.dir
